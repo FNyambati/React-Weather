@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Helvetica, sans-serif;
+  background-color: #1e272e;
+  color: #ecf0f1;
+}
+
+#root{
+  height: 100vh;
+}
+
+.wi-blue{
+  color:#3498db;
+}
+.wi-yellow{
+  color: #f1c40f
+}
+.wi-gray{
+  color: #b2bec3
+}

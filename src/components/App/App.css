@@ -1,0 +1,29 @@
+.app-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.app-list-graph{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px;
+}
+
+.app-list-graph > div{
+    flex-basis: 50%;
+}
+
+@media all and (max-width:768px){
+    .app-list-graph{
+        flex-direction: column;
+    }
+}
+
+.app-directions {
+    font-size: 1.1rem;
+    margin: auto;
+    text-align: center;
+    color: #ecf0f1;
+}

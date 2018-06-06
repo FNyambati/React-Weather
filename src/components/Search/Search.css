@@ -1,0 +1,37 @@
+.form-container{
+    padding: 8px;
+}
+
+form{
+  border-bottom: 1px solid #00cec9;
+}
+
+input[type="text"]{
+    padding: 8px;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #ecf0f1;
+    caret-color: #ecf0f1;
+}
+
+.search-button{
+    padding:8px;
+    background-color: #00cec9;
+    color: #ecf0f1;
+    cursor: pointer;
+    border-bottom: 1px solid #00cec9;
+}
+
+::-webkit-input-placeholder {
+    color: #ecf0f1;
+  }
+  ::-moz-placeholder {
+    color: #ecf0f1;
+  }
+  :-ms-input-placeholder {
+    color: #ecf0f1;
+  }
+  ::placeholder {
+    color: #ecf0f1;
+  }
