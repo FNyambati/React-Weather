@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Smart react weather app using OpenWeatherMap's Api and HTML5 Geolocation",
   "main": "index.js",
-  "homepage": "https://fnyambati.github.io/react-weather/",
+  "homepage": "https://fnyambati.github.io/React-Weather/",
   "scripts": {
     "start": "webpack-dev-server --colors --mode=development",
     "build": "webpack --mode=production",
