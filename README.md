@@ -10,5 +10,4 @@ Smart react weather app using OpenWeatherMap's Api and HTML5 Geolocation.
 * Allow Location Services for your browser, or manually enter your city/zip
 
 ## Live Demo
-
-<a href="https://fnyambati.github.io/react-weather"></a>
+[Hosted by Github Pages](https://fnyambati.github.io)
