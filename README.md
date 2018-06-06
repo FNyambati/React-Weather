@@ -25,4 +25,4 @@ Smart React Weather app using [OpenWeatherMap's](https://home.openweathermap.org
 
 ```
 
-## [Live Demo](https://fnyambati.github.io/React-Weather/)
+## <a href="https://fnyambati.github.io/React-Weather/" target="_blank">Live Demo</a>
