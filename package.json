@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Smart react weather app using OpenWeatherMap's Api and HTML5 Geolocation",
   "main": "index.js",
+  "homepage": "https://fnyambati.github.io/react-weather/",
   "scripts": {
-    "start": "webpack-dev-server --colors --mode=development"
+    "start": "webpack-dev-server --colors --mode=development",
+    "build": "webpack --mode=production",
+    "deploy":"gh-pages -d dist"
   },
   "keywords": [],
   "author": "Fred Nyambati",
@@ -16,6 +19,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^0.28.11",
+    "gh-pages": "^1.2.0",
     "html-webpack-plugin": "^3.2.0",
     "style-loader": "^0.21.0",
     "webpack": "^4.11.1",
